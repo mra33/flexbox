@@ -9,18 +9,21 @@ html, body {
 
 body {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  background: url('../img/wow.png') bottom center no-repeat;
+  background: url('../img/closet-doors.jpg') bottom center no-repeat;
   background-size: cover;
+  background-opacity: .3;
   font-size: 1em;
 }
 
 
+
+
 .centered { 
   padding: 0 3.125em;
-  font-family:'Montserrat', sans-serif; 
-  background: #f16059; 
+  font-family:'Satisfy';
+  background: #39ada4; 
 }
  
 h1 {
